@@ -1,0 +1,22 @@
+html {
+  font-size: 22px;
+}
+
+body {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  background-color: #e5e5e5;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+#subtitle {
+  font-size: 2rem;
+}
+
+#image {
+  width: 45%;
+  border-radius: 20px;
+}
