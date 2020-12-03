@@ -17,7 +17,10 @@ h1 {
 }
 
 #image {
-  width: 40%;
+  max-width: 40%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
   border-radius: 20px;
 }
 
@@ -34,4 +37,21 @@ ul {
 
 li {
   margin-top: 15px;
+}
+
+#image2 {
+  max-width: 40%;
+  border-radius: 20px;
+}
+
+#tribute-link {
+  font-size: 2rem;
+}
+
+#tribute-link:hover {
+  text-decoration: underline;
+}
+
+#tribute-link:visited {
+  color: black;
 }
