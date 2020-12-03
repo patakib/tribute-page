@@ -17,6 +17,21 @@ h1 {
 }
 
 #image {
-  width: 45%;
+  width: 40%;
   border-radius: 20px;
+}
+
+h3 {
+  font-size: 2rem;
+  margin: 100px auto 30px auto;
+}
+
+ul {
+  text-align: left;
+  max-width: 700px;
+  margin: 0 auto 50px auto;
+}
+
+li {
+  margin-top: 15px;
 }
